@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monser-react/static/css/main.0fafd796.chunk.css",
+    "main.js": "/monser-react/static/js/main.d8480a68.chunk.js",
+    "main.js.map": "/monser-react/static/js/main.d8480a68.chunk.js.map",
+    "runtime-main.js": "/monser-react/static/js/runtime-main.ac539ebc.js",
+    "runtime-main.js.map": "/monser-react/static/js/runtime-main.ac539ebc.js.map",
+    "static/js/2.5905bb17.chunk.js": "/monser-react/static/js/2.5905bb17.chunk.js",
+    "static/js/2.5905bb17.chunk.js.map": "/monser-react/static/js/2.5905bb17.chunk.js.map",
+    "index.html": "/monser-react/index.html",
+    "precache-manifest.641d5638473e5e05c9aab0e03c1ebe49.js": "/monser-react/precache-manifest.641d5638473e5e05c9aab0e03c1ebe49.js",
+    "service-worker.js": "/monser-react/service-worker.js",
+    "static/css/main.0fafd796.chunk.css.map": "/monser-react/static/css/main.0fafd796.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac539ebc.js",
+    "static/js/2.5905bb17.chunk.js",
+    "static/css/main.0fafd796.chunk.css",
+    "static/js/main.d8480a68.chunk.js"
+  ]
+}
